@@ -21,7 +21,7 @@
 
 ## Languages and Tools 🌎:
 
-<a href="https://github.com/truongDucNghia"><img align="left" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<a href="https://github.com/truongDucNghia"><img align="left" width="190" height="190" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 #### Technology used:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -42,6 +42,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+
+
 ## Where to find me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/NghiaTruong02/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](truongducnghia030802@gmail.com)
