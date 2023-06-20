@@ -44,7 +44,7 @@
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
 
-## Where to find me
+## Where to find me 🤝:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/NghiaTruong02/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](truongducnghia030802@gmail.com)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](https://www.facebook.com/NghiaTruong02/)
