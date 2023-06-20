@@ -46,7 +46,7 @@
 
 ## Where to find me 🤝:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/NghiaTruong02/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](truongducnghia030802@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:truongducnghia030802@gmail.com)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](https://www.facebook.com/NghiaTruong02/)
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/truongDucNghia)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://github.com/truongDucNghia)
