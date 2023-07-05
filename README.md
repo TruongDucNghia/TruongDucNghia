@@ -10,7 +10,7 @@
  ## Working 👨‍💻:
  <a href="https://github.com/truongDucNghia"><img align="left" width="auto" height="100" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
-- `Worked at`: [NetBase JSC](https://netbasejsc.com/) `Project`: [Online Design](https://github.com/Printcart/design-tool-react)
+- `Worked at`: [NetBase JSC](https://netbasejsc.com/) `Project`: [Online Design](https://github.com/Printcart)
 
 - `Worked at`: [Inecso JSC](https://www.linkedin.com/company/inecso/) `Project`: [Mean BLVD](https://meanblvd.com/)
   
