@@ -25,7 +25,7 @@
 
 ## Languages and Tools 🌎:
 
-<a href="https://github.com/truongDucNghia"><img align="left" width="190" height="190" src="https://octodex.github.com/images/NUX_Octodex.gif"></a>
+<a href="https://github.com/truongDucNghia"><img align="left" width="190" height="190" src="https://raw.githubusercontent.com/M0nica/M0nica/main/octomonica/m0nica-octocat-rotating.gif"></a>
 #### Technology used:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
