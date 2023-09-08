@@ -11,6 +11,7 @@
  <a href="https://github.com/truongDucNghia">
  /a>
  <img align="left" width="auto" height="100" src="https://res.cloudinary.com/dgp8iwzvz/image/upload/v1694053181/fidj4qcmw11ih0bp9snd.gif?raw=true">
+ <a href="https://github.com/truongDucNghia"><img align="left" width="190" height="190" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 - `Worked at`: [NetBase JSC](https://netbasejsc.com/) `Project`: [Online Design](https://github.com/Printcart)
 
