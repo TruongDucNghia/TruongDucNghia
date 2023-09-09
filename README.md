@@ -55,3 +55,5 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/truongDucNghia)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=github&logoColor=white)](https://github.com/truongDucNghia)
 
+<img align="left" width="100vh" height="100%" src="/upload/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
