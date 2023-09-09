@@ -9,8 +9,8 @@
 
  ## Working 👨‍💻:
  <a href="https://github.com/truongDucNghia">
-  <img align="left" width="auto" height="100" src="/upload/NUX_Octodex.gif">
- /a>
+  <img align="left" width="190" src="/upload/NUX_Octodex.gif">
+ </a>
 
 - `Worked at`: [NetBase JSC](https://netbasejsc.com/) `Project`: [Online Design](https://github.com/Printcart)
 
